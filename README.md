@@ -94,7 +94,7 @@ You can adjust these colors to match your branding or event theme.
 
 ## 🚀 Deployment
 
-This website is deployed and can be used at: 
+This website is deployed and can be used at: https://leaderboard-ten-iota.vercel.app/
 
 * **Vercel** (recommended)
 * **Netlify**
@@ -117,12 +117,6 @@ This website is deployed and can be used at:
 > ![alt text](image.png)
 > ![alt text](image-1.png)
 > ![alt text](image-2.png)
-
----
-
-## 🙌 Credits
-
-Built with ❤️ using React and Tailwind CSS by \[Your Name].
 
 ---
 
